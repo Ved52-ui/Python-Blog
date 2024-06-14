@@ -91,10 +91,9 @@ if 1<5:
     print(True)
 else:
     print(False)
-
-    name='ved' #use in input function also
-    age=17
-    print("{name} age {age}" .format(name=name,age=age))
+ name='ved' #use in input function also
+ age=17
+ print("{name} age {age}" .format(name=name,age=age))
 #to check year wether it is lip year or not
 year=int(input('enter the year:'))
 if(year %4 == 0 and year %100!= 0) or (year % 400==0):
