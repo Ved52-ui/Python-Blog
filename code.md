@@ -107,7 +107,7 @@ while count<=7:
         count +=1
         continue
     print(count)
-    count+=1
+    count+=1<br>
 
 -#count=0
 while count<=7:
