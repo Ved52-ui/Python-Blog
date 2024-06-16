@@ -100,3 +100,37 @@ if(year %4 == 0 and year %100!= 0) or (year % 400==0):
     print(f"{year} is a leap year")
 else:
     print(f"{year} is not leap year")
+
+count=0
+while count<=7:
+    if count==3:
+        count +=1
+        continue
+    print(count)
+    count+=1
+
+count=0
+while count<=7:
+    print(count)
+    if count==5:
+        break
+    count+=1
+
+#program
+while True:
+    age=int(input('enter  the age:'))
+    if age>=0:
+        break
+    else:
+        print('enter valid agee')
+ 
+gameover=False
+while not gameover:
+    user_input=input('continue playing? yes/no: ')
+    if user_input.lower()=='no':
+        gameover=True
+  
+list=[[200,100],[10,20]]
+for i in range(len(list)):
+    for j in range(len(list[i])):
+        print(list[i][j], end=' ')
