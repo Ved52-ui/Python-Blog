@@ -1,6 +1,14 @@
 <h1>Code to print hello wolrd</h1>
 <p>print('hello wolrd!')</p><br><br>
-
+<h1>How We Can Comment The Code<br></h1>
+<h2>This Is Single Line Comment</h2>
+-Example<br>
+# this is single line comment<br>
+<h2>This Is Multiple Line Comment</h2>
+-Example<br>
+'''this is <br>
+  multiple<br>
+  line comment'''
 <h1>How to make a variable</h1>
 <p> Example :  a='hello wolrd'<br>--execute the variable print(a)</p><br><br>
 
