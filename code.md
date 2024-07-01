@@ -3,3 +3,5 @@
 
 <h1>How to make a variable</h1>
 <p> Example :  a='hello wolrd'<br>--execute the variable print(a)</p>
+
+<h1>Data Types in Python</h1>
