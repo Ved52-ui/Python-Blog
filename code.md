@@ -14,14 +14,14 @@
 
 <h1>Data Types in Python</h1>
 <h2>-In-Built data types</h2>
--Integer
--Float
--String
--Boolean
+-Integer<br>
+-Float<br>
+-String<br>
+-Boolean<br>
 <h2>User Defined Data types</h2>
--List
--Tuple
--Set
--Dictionary
--Tree
+-List<br>
+-Tuple<br>
+-Set<br>
+-Dictionary<br>
+-Tree<br>
 -Graph
