@@ -35,4 +35,4 @@ print(type(a))
 <br><br>
 --OUTPUT:
 <br>
-<p><int></p>
+<p>int</p>
