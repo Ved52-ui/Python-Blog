@@ -64,6 +64,7 @@ cars=['toyota','honda','jeep','nissan']
 print(cars)
 <br>
 <h2>||Operations Can Perform By List||</h2><br>
+<table>
 <tr>
 'append'<br>
  'clear'<br>
@@ -77,3 +78,4 @@ print(cars)
  'reverse'<br>
  'sort'<br>
 </tr>
+</table>
