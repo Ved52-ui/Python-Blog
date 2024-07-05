@@ -36,3 +36,13 @@ print(type(a))
 --OUTPUT:
 <br>
 <p>int</p>
+
+<h1>||How We Can Take Input From User||</h1><br>
+--Example<br>
+input('Enter Your Choice:')<br>
+--It Will Take The INput From The User..
+
+<h2>Innput For Specific Data Type</h2>
+<br>
+--Example<br>
+int(input('it will take only intger value:'))
