@@ -46,3 +46,6 @@ input('Enter Your Choice:')<br>
 <br>
 --Example<br>
 int(input('it will take only intger value:'))
+<br>
+<h1>||List Of Arithematic Operators In Python||</h1><br>
+--+ <p>This Is Use For The Adition Operation..</p>
