@@ -56,3 +56,24 @@ int(input('it will take only intger value:'))
 <h2>(*) </h2> <p>This Is Use For The Multiplication  Operation..</p><br>
 
 <h2>(/) </h2> <p>This Is Use For The Divition  Operation..</p><br>
+
+
+<h1>||Making A List||</h1>
+--Example
+cars=['toyota','honda','jeep','nissan']
+print(cars)
+<br>
+<h2>||Operations Can Perform By List||</h2><br>
+'append'<br>
+ 'clear'<br>
+ 'copy'<br>
+ 'count'<br>
+ 'extend'<br>
+ 'index'<br>
+ 'insert'<br>
+ 'pop'<br>
+ 'remove'<br>
+ 'reverse'<br>
+ 'sort'<br>
+
+
