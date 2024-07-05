@@ -65,7 +65,7 @@ print(cars)
 <br>
 <h2>||Operations Can Perform By List||</h2><br>
 <table>
-<tr>
+<tr><td>
 <td>'append'<br> </td>
 <td> 'clear'<br> </td>
 <td> 'copy'<br> </td>
@@ -77,6 +77,6 @@ print(cars)
  <td>'remove'<br> </td>
  <td>'reverse'<br> </td>
  <td>'sort'<br> </td>
-   
+</td>
 </tr>
 </table>
