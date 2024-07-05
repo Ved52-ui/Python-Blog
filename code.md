@@ -1,6 +1,10 @@
 <h1>---MY-BLOG</h1>
 <h1>||Code to print hello wolrd||</h1>
 <p>print('hello wolrd!')</p><br><br>
+#print in python<br>
+  -print('welcome',sep=' ')<br>
+    print('to home')<br>
+  -print('25','05','2024',sep='-')<br>
 <h1>||How We Can Comment The Code||<br></h1>
 <h2>This Is Single Line Comment</h2>
 -Example<br>
