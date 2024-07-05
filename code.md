@@ -15,7 +15,7 @@
 
 <h1>||Data Types in Python||</h1>
 <h2>||In-Built data types||</h2>
--Integer<br>
+Integer<br>
 -Float<br>
 -String<br>
 -Boolean<br>
@@ -66,6 +66,7 @@ print(cars)
 <h2>||Operations Can Perform By List||</h2><br>
 <table>
 <tr>
+  <td>
 'append'<br>
  'clear'<br>
  'copy'<br>
@@ -77,5 +78,6 @@ print(cars)
  'remove'<br>
  'reverse'<br>
  'sort'<br>
+    </td>
 </tr>
 </table>
