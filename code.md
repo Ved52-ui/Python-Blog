@@ -67,16 +67,16 @@ print(cars)
 <table>
 <tr>
 <tr><td>'append'<br> </td></tr>
-<td> 'clear'<br> </td>
-<td> 'copy'<br> </td>
-<td> 'count'<br> </td>
-<td> 'extend'<br> </td>
-<td> 'index'<br> </td>
-<td> 'insert'<br> </td>
-<td> 'pop'<br> </td>
- <td>'remove'<br> </td>
- <td>'reverse'<br> </td>
- <td>'sort'<br> </td>
+<tr><td> 'clear'<br> </td></tr>
+<tr><td> 'copy'<br> </td></tr>
+<tr><td> 'count'<br> </td></tr>
+<tr><td> 'extend'<br> </td></tr>
+<tr><td> 'index'<br> </td></tr>
+<tr><td> 'insert'<br> </td></tr>
+<tr><td> 'pop'<br> </td></tr>
+<tr> <td>'remove'<br> </td></tr>
+<tr> <td>'reverse'<br> </td></tr>
+<tr> <td>'sort'<br> </td></tr>
 
 </tr>
 </table>
