@@ -66,18 +66,17 @@ print(cars)
 <h2>||Operations Can Perform By List||</h2><br>
 <table>
 <tr>
-  <td>
-'append'<br>
- 'clear'<br>
- 'copy'<br>
- 'count'<br>
- 'extend'<br>
- 'index'<br>
- 'insert'<br>
- 'pop'<br>
- 'remove'<br>
- 'reverse'<br>
- 'sort'<br>
-    </td>
+<td>'append'<br> </td>
+<td> 'clear'<br> </td>
+<td> 'copy'<br> </td>
+<td> 'count'<br> </td>
+<td> 'extend'<br> </td>
+<td> 'index'<br> </td>
+<td> 'insert'<br> </td>
+<td> 'pop'<br> </td>
+ <td>'remove'<br> </td>
+ <td>'reverse'<br> </td>
+ <td>'sort'<br> </td>
+   
 </tr>
 </table>
