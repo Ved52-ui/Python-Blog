@@ -25,4 +25,14 @@
 -Set<br>
 -Dictionary<br>
 -Tree<br>
--Graph
+-Graph<br><br>
+
+<h1>||How We Can Find Data Type Of Given Data||</h1>
+--Example<br>
+a=10
+print(type(a))
+
+<br><br>
+--OUTPUT:
+<brr>
+<int>
