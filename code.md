@@ -1,4 +1,4 @@
-<h1>---MY-BLOG</h1>
+<h1 alignn="center"><b>---MY-BLOG</b></h1>
 <h1>||Code to print hello wolrd||</h1>
 <p>print('hello wolrd!')</p><br>
 #print in python<br>
@@ -19,7 +19,7 @@
 
 <h1>||Data Types in Python||</h1>
 <h2>||In-Built data types||</h2>
-Integer<br>
+-Integer<br>
 -Float<br>
 -String<br>
 -Boolean<br>
