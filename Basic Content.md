@@ -123,5 +123,5 @@ print(True) if i==15 else print(False)</p>
 <h1>For Loop<br></h1>
 <h2>Example Of For Loop</h2><br>  
 <br><p>for i in range<br>(10,20)
-  print(i)<br>
+ - print(i)<br>
 </p>
