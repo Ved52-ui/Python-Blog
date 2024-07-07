@@ -1,4 +1,4 @@
-<h1 align="center"><b>---MY-BLOG</b></h1>
+2<h1 align="center"><b>---MY-BLOG</b></h1>
 <h1>||Code to print hello wolrd||</h1>
 <p>print('hello wolrd!')</p><br>
 #print in python<br>
@@ -122,6 +122,6 @@ print(True) if i==15 else print(False)</p>
 
 <h1>For Loop<br></h1>
 <h2>Example Of For Loop</h2><br>  
-<br><p>for i in range(10,20)
+<br><p>for i in range<br>(10,20)
   print(i)<br>
 </p>
