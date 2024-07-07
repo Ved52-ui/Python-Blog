@@ -92,7 +92,7 @@ print(cars)
 <h2>Subtraction<br></h2>
 <P>print(20-10)</P>
 
-<h2>MUltiplication<br></h2>
+<h2>Multiplication<br></h2>
 <P>print(10*20)</P>
 
 <h2>Division<br></h2>
