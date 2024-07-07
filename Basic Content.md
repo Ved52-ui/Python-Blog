@@ -97,3 +97,9 @@ print(cars)
 
 <h2>Divition<br></h2>
 <P>print(10/20)</P>
+
+<br><h1>Example of if and else condition<br></h1>
+if 1<5:
+    print(True)
+else:
+    print(False)
