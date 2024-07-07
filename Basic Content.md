@@ -119,3 +119,9 @@ else:<br>
 <h1>If-Else Condition In One Line<br></h1>
 <p>i=15<br>
 print(True) if i==15 else print(False)</p>
+
+<h1>For Loop<br></h1>
+<h2>Example Of For Loop</h2><br>  
+<br><p>for i in range(10,20)
+  print(i)<br>
+</p>
