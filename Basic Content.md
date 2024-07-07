@@ -109,10 +109,10 @@ else:<br>
 <p>
 -i=int(input('enter the number:'))
 if(i==0):<br>
--          print('zero')
-elif(i>0):
--          print('positive')
-else:
--          print('nwgative')
+-          print('zero')<br>
+elif(i>0):<br>
+-          print('positive')<br>
+else:<br>
+-          print('negative')<br>
   
 </p>
