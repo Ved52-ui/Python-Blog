@@ -100,6 +100,6 @@ print(cars)
 
 <br><h1>Example of if and else condition<br></h1>
 <p>if 1<5:<Br>
-    print(True)<br>
+       print(True)<br>
 else:<br>
-    print(False)<br></p>
+       print(False)<br></p>
