@@ -95,11 +95,11 @@ print(cars)
 <h2>MUltiplication<br></h2>
 <P>print(10*20)</P>
 
-<h2>Divition<br></h2>
+<h2>Division<br></h2>
 <P>print(10/20)</P>
 
 <br><h1>Example of if and else condition<br></h1>
 <p>if 1<5:<Br>
-       print(True)<br>
+         print(True)<br>
 else:<br>
        print(False)<br><p>
