@@ -99,7 +99,7 @@ print(cars)
 <P>print(10/20)</P>
 
 <br><h1>Example of if and else condition<br></h1>
-if 1<5:
-    print(True)
-else:
-    print(False)
+if 1<5:<Br>
+    print(True)<br>
+else:<br>
+    print(False)<br>
