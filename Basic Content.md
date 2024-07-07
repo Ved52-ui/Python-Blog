@@ -115,4 +115,7 @@ elif(i>0):<br>
 else:<br>
 -          print('negative')<br>
   
-</p>
+</p><br>
+<h1>If-Else Condition In One Line<br></h1>
+<p>i=15<br>
+print(True) if i==15 else print(False)</p>
