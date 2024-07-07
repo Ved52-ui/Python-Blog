@@ -103,3 +103,16 @@ print(cars)
 -         print(True)<br>
 else:<br>
 -       print(False)<br><p>
+
+<h1>Program To Find Entered Number Is Positive Or Negative
+<br></h1>
+<p>
+-i=int(input('enter the number:'))
+if(i==0):<br>
+-          print('zero')
+elif(i>0):
+-          print('positive')
+else:
+-          print('nwgative')
+  
+</p>
