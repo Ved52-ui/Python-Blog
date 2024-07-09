@@ -125,3 +125,8 @@ print(True) if i==15 else print(False)</p>
 <br><p>for i in range:(10,20)<br>
  -      print(i)<br>
 </p>
+<br>
+<h1>Python Code To Generate Randoom Number</h1><br>
+<p>import random<br>
+random=random.randint(1,1000)<br>
+print(random)<br></p>
