@@ -139,4 +139,6 @@ student={<br>
 -         'virat':{'age':'35','rollno.':'100'},<br>
 -         'rohit':{'age':'37','rollno.':'101'}<br>
 }<br>
+<h2>How To  Print Specific Data From Dictionary<br></h2>
+print(student['ved'])<br>
 
