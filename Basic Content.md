@@ -133,7 +133,7 @@ print(random)<br></p>
 
 <br>
 
-<h1>How To Make Dictioary<br></h1>
+<h1>How To Make Dictionary<br></h1>
 student={<br>
 -        'ved' : {'age':'17','rollno.':'001'}, #add subject<br>
 -         'virat':{'age':'35','rollno.':'100'},<br>
