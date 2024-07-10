@@ -130,3 +130,13 @@ print(True) if i==15 else print(False)</p>
 <p>import random<br>
 random=random.randint(1,1000)<br>
 print(random)<br></p>
+
+<br>
+
+<h1>How To Make Dictioary<br></h1>
+student={<br>
+-        'ved' : {'age':'17','rollno.':'001'}, #add subject<br>
+-         'virat':{'age':'35','rollno.':'100'},<br>
+-         'rohit':{'age':'37','rollno.':'101'}<br>
+}<br>
+
