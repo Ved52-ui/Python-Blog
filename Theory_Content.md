@@ -1,4 +1,4 @@
-<h1>---MY BLOG</h1>
+<h1>---Basic Theory</h1>
 # python is a high level,general purpose programming language and very popular programming language.<br><br><br>
 #it is used in webdevelopment and machine learning application and etc.<br><br><br>
 #python program is smaller the the other programming languages.<br><br><br>
