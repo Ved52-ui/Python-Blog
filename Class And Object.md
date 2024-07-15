@@ -1,65 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-   
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
     <h1>--MY-BLOG.</h1>
     <h1>Class And Object</h1><br>
     
-    <h2>How We Create The Class</h2><br>
-    <p>
-        class person:<br>
-        name="ved"<br>
-        city="ahemedabad"<br>
-        p1=person()<br>
-        print(p1.name)<br>
-    </p>
-    <h2>How We Can Change The Value Of Class</h2><br>
-    <p>
-    p1.name="rohit"<br>
-    p1.city="mumbai"<br>
-    print(p1.name) <br> 
-</p>
-<h1>How To Make An Object</h1><br>
-<p>
-#making an object
+ <h2>How We Create The Class</h2><br>
+ 
+    class person:
+        name="ved"
+        city="ahemedabad"
+        p1=person()
+        print(p1.name)
     
-    class student:<br>
-    def __init__(self,name,age):<br>
-            self.name=name<br>
-            self.age=age<br>
+<h2>How We Can Change The Value Of Class</h2><br>
+    
+    p1.name="rohit"
+    p1.city="mumbai"
+    print(p1.name) 
+
+<h1>How To Make An Object</h1><br>
+
+    #object
+     class student:
+        def __init__(self,name,age):
+          self.name=name
+          self.age=age
 
 
-    class person1:<br>
-        example="abcd"<br>
+    class person1:
+       example="abcd"
 
-    def __init__(self,name,age):<br>
-        self.name=name<br>
-        self.age=age<br>
+    def __init__(self,name,age):
+        self.name=name
+        self.age=age
 
-    def display_details(self):<br>
-        print(f"name: {self.name}, age: {self.age} ")<br>
+    def display_details(self):
+        print(f"name: {self.name}, age: {self.age} ")
 
-    def celebrate_birthday(self):<br>
+    def celebrate_birthday(self):
         self.age+=1
-        print(f"happy birthday {self.name}! you are now {self.age} years old")<br>
+        print(f"happy birthday {self.name}! you are now {self.age} years old")
+
+      #creatig object
+     p1=person1("ved",17)
+    p2=person1("virat",20)
 
 
-     p1=person1("ved",17)<br>
-     p2=person1("virat",20)<br>
+    #accesing class atributs
+    print(p1.example)
+    print(p2.example)
 
+    #accesing the instance atributes and methods
+    print(p1.name)
+    print(p1.age)
 
-    #accesing class atributs<br>
-    print(p1.example)<br>
-    print(p2.example)<br>
+     p1.display_details()
+    p2.display_details()
+    p1.celebrate_birthday()
 
-    #accesing the instance atributes and methods<br>
-    print(p1.name)<br>
-    print(p1.age)<br>
-
-    p1.display_details()<br>
-    p2.display_details()<br>
-    p1.celebrate_birthday()<br>
-</p>
 </head>
 <body>
     
