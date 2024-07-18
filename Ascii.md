@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
   How To Find  Ascii Value Of The Character
 </h1><br>
 <h2>
