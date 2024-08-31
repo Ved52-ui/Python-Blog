@@ -28,13 +28,3 @@
     st.camera_input("Take a picture")
     st.color_picker("Pick a color")
 
-# Use widgets' returned values in variables:
-for i in range(int(st.number_input("Num:"))):
-    foo()
-if st.sidebar.selectbox("I:",["f"]) == "f":
-    b()
-my_slider_val = st.slider("Quinn Mallory", 1, 88)
-st.write(slider_val)
-
-# Disable widgets to remove interactivity:
-st.slider("Pick a number", 0, 100, disabled=True)
