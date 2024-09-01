@@ -32,4 +32,11 @@
 <h2>st.title("Login Page")</h2><br>
 <h2>To Write This Code Import Streamlit As st</h2><br>
 <h2>How To Make Input Box</h2><br>
-</h2>username = st.text_input("Username")</h2>
+</h2>username = st.text_input("Username")</h2><br>
+<h1>How To Display Media On The Wabpage Using Python</h1><br>
+
+    st.image("./header.png")
+    st.audio(data)
+    st.video(data)
+    st.video(data, subtitles="./subs.vtt")
+    st.logo("logo.jpg")
