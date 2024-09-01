@@ -30,4 +30,6 @@
 <h1>How Can We Make An Input Box Using Streamlit</h1><br>
 <h1>How To Make Title</h1><br>
 <h2>st.title("Login Page")</h2><br>
-<h2>To Write This Code Import Streamlit As st</h2>
+<h2>To Write This Code Import Streamlit As st</h2><br>
+<h2>How To Make Input Box</h2><br>
+</h2>username = st.text_input("Username")</h2>
