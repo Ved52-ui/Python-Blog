@@ -4,7 +4,7 @@
       pip install pandas
 <h2>To Import Pandas Library Use This Code </h2><br>
 
-      import pandas
+      import pandas as pd
 
 
 
