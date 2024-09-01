@@ -6,5 +6,13 @@
 
       import pandas as pd
 
+<h2>How To Make Raw And Column Using pandas</h2><br>
+
+    data={
+    "name":["ved","patel"]
+    "age":[17,20]
+    }
+    df=pd.DataFrame(data)
+    print(df)
 
 
