@@ -27,4 +27,7 @@
     st.file_uploader("Upload a CSV")
     st.camera_input("Take a picture")
     st.color_picker("Pick a color")
-<h1>How Can We Make An Input Box Using Streamlit</h1>
+<h1>How Can We Make An Input Box Using Streamlit</h1><br>
+<h1>How To Make Title</h1><br>
+<h2>st.title("Login Page")</h2><br>
+<h2>To Write This Code Import Streamlit As st</h2>
