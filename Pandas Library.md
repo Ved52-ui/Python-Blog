@@ -33,7 +33,7 @@
       df3=pd.read_csv('my_data_frame.csv')
       print(df3)
 <h2>-When you print data then data was converted into csv file</h2><br>
-<h1>--How To Read Any Type Of File Using Pandas</h1>
+<h1>--How To Read Many Type Of File Using Pandas</h1>
 <p>Types Of Files We Can Read Using Pandas</p><br>
 <table>
 <tr>
