@@ -34,7 +34,7 @@
       print(df3)
 <h2>-When you print data then data was converted into csv file</h2><br>
 <h1>--How To Read Many Type Of File Using Pandas</h1>
-<p>Types Of Files We Can Read Using Pandas</p><br>
+<p>----Types Of Files We Can Read Using Pandas</p><br>
 <table>
 <tr>
 <tr><td>CSV File<br> </td></tr>
@@ -44,3 +44,15 @@
 
 </tr>
 </table>
+<p>----Code To Read Files For Each Type</p>
+
+      df1=pd.read_csv('Automobile.csv')
+      df1=pd.read_excel('Your_file.xlsx')
+      df1=pd.read_json('Your_file.json')
+      df1=pd.read_pdf(r'Your_file.pdf')
+<h1>--How To Connect SQL Database Using Pandas<br></h1>
+<p>Code To Connect SQL Database</p>
+                  
+      #import sqlite3
+      #conn=sqlite3.connect(r'Automobile.db')
+      #df=pd.read_sql_query(SELECT*FROM conn)
