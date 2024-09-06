@@ -1,9 +1,14 @@
 <h1>How We Can Run Python In Browser</h1><br>
 <h1>To Run Python In Browser We Use The Streamlit</h1><br>
-<h1>Command to Import Streamlit</h1><br>
-<h2>pip install streamlit</h2><br>
-<h2>Command TO run app</h2><br>
-<h2>streamlit run first_app.py</h2>
+<h1>Command to install Streamlit</h1><br>
+        
+    pip install streamlit
+<h1>How to Import streamlit </h1>
+
+    import streamlit as st
+<h2>Command To run file</h2><br>
+    
+    streamlit run first_app.py
 <h2>Codes Of Streamlit</h2><br>
 
     st.button("Click me")
@@ -29,10 +34,12 @@
     st.color_picker("Pick a color")
 <h1>How Can We Make An Input Box Using Streamlit</h1><br>
 <h1>How To Make Title</h1><br>
-<h2>st.title("Login Page")</h2><br>
+
+    st.title("Login Page")
 <h2>To Write This Code Import Streamlit As st</h2><br>
 <h2>How To Make Input Box</h2><br>
-</h2>username = st.text_input("Username")</h2><br>
+
+    username = st.text_input("Username")
 <h1>How To Display Media On The Wabpage Using Python</h1><br>
 
     st.image("./header.png")
