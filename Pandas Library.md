@@ -16,6 +16,16 @@
     print(df)
 
 <h1>-!!This Code Must Be Run In Jupyter Notebook!!</h1><br>
-<h1>-How To Read CSV File Using Pandas</h1><br>
+<h1>-How To Create Data Frame Using Pandas<br></h1><br>
 
+      #creating data frame
+      data={
+          "Name":["Kane","Khan","Lion","Tiger"],
+          "Gender":["Female","Male","Male","Male"],
+          "Town":["Hemilton","Cricthurch","Bengaluru","Sydney"]
+      }
+
+      df=pd.DataFrame(data)
+      print(df)
+<h1>-How To Convert Data Frame Into CSV File<br></h1><br>
   
