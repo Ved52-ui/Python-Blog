@@ -28,4 +28,9 @@
       df=pd.DataFrame(data)
       print(df)
 <h1>-How To Convert Data Frame Into CSV File<br></h1><br>
+
+      df.to_csv("Your_csv_file.csv",index=False)
+      df3=pd.read_csv('my_data_frame.csv')
+      print(df3)
+<h2>When you print data then data was converted into csv file</h2><br>
   
