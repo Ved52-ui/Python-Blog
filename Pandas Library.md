@@ -51,8 +51,8 @@
       df1=pd.read_json('Your_file.json')
       df1=pd.read_pdf(r'Your_file.pdf')
 <h1>--How To Connect SQL Database Using Pandas<br></h1>
-<p>Code To Connect SQL Database</p>
+<p>----ode To Connect SQL Database</p>
                   
       #import sqlite3
-      #conn=sqlite3.connect(r'Automobile.db')
+      #conn=sqlite3.connect(r'your_database.db')
       #df=pd.read_sql_query(SELECT*FROM conn)
