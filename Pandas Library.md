@@ -35,3 +35,12 @@
 <h2>-When you print data then data was converted into csv file</h2><br>
 <h1>--How To Read Any Type Of File Using Pandas</h1>
 <p>Types Of Files We Can Read Using Pandas</p><br>
+<table>
+<tr>
+<tr><td>CSV File<br> </td></tr>
+<tr><td>Excel File<br> </td></tr>
+<tr><td> Json File<br> </td></tr>
+<tr><td> PDF File<br> </td></tr>
+
+</tr>
+</table>
