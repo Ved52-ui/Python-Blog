@@ -10,3 +10,4 @@
 ## How To Create 2D Array
      array2 = np.array([[1, 2, 3], [4, 5, 6]])
      print("2D Array:", array2)
+## 
