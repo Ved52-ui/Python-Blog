@@ -16,3 +16,20 @@
 ## How To Make 3*3 Mareises of Zero
      matresis = np.zeros((3, 3))
      print("this is matresis:", matresis)
+## Statistical Operations Using Numpy
+
+
+    arr = np.array([1, 2, 3, 4, 5])
+
+# To Find Mean
+    print("Mean:", arr.mean())
+
+# To Find Sum
+    print("Sum:", arr.sum())
+
+# To Find Standard Deviation
+    print("Standard Deviation:", arr.std())
+
+# To Find Minimum and Maximum
+     print("Min:", arr.min())
+     print("Max:", arr.max())
