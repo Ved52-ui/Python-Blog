@@ -24,7 +24,7 @@
 # To Find Mean
     print("Mean:", arr.mean())
 
-# To Find Su
+# To Find Sum
     print("Sum:", arr.sum())
 
 # To Find Standard Deviation
