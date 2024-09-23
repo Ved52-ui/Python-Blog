@@ -12,4 +12,4 @@
     plt.show()
 
 <h1>How Graph Looks Like</h1><br>
- <img src=""C:\Users\ved patel\Pictures\Screenshots\Screenshot 2024-09-23 115605.png"" width="40" height="40"/>
+ <img src="C:\Users\ved patel\Pictures\Screenshots\Screenshot 2024-09-23 115605.png" width="40" height="40"/>
