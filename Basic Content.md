@@ -1,7 +1,7 @@
 2<h1 align="center"><b>---MY-BLOG</b></h1>
 <h1>||Code to print hello wolrd||</h1>
 <p>print('hello wolrd!')</p><br>
-#print in python<br>/////////////////////////////////
+#print in python<br>////////////////////////////////
   -print('welcome',sep=' ')<br>
     print('to home')<br>
   -print('25','05','2024',sep='-')<br>
